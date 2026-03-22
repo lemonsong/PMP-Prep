@@ -1,5 +1,5 @@
 # 2025 PMP备考整理
-👀 官方思维导图（手动整理）和课本内容补充（通过AI获取）已整理至 https://my.feishu.cn/wiki/SfeuwJCF1iUSUlk7gMEcjZSFnFf?fromScene=spaceOverview
+👀 官方思维导图（手动整理）和课本内容补充（通过AI获取）已整理至 [飞书wiki](https://my.feishu.cn/wiki/SfeuwJCF1iUSUlk7gMEcjZSFnFf?fromScene=spaceOverview)
 
 ✍️ PMP Prep App和考题感觉最为接近
 
